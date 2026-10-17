@@ -24,7 +24,7 @@
 **SoC / RTL Design**
 - **[CNN Accelerator · DMA 기반 Vision Teleoperation SoC](https://2nak0.notion.site/3db6de42f579803da1acc6042436a6de)** — Zybo Z7-20에 INT8 Systolic Array CNN 가속기와 DMA를 통합해 카메라 영상의 조향각을 4.50 ms에 추론하는 Vision AI SoC. 팀장으로서 CNN 제어부 FSM 설계, Top 통합, UVM 검증 담당 (팀 프로젝트)
 - **[AXI4-Lite 기반 Custom IP 설계 및 SoC 통합](https://2nak0.notion.site/3b06de42f579808f8820f903dcb7ba27)** — AXI4-Lite Custom Peripheral IP를 RTL로 설계하고 MicroBlaze SoC에 통합, HW/SW 제어 및 UVM 검증까지 수행
-- **[RISC-V Single/Multi Cycle CPU](https://2nak0.notion.site/3c26de42f5798095911ad6db93b3684f)** — RV32I 기반 Single-cycle / Multi-cycle CPU 설계 및 FPGA 구현
+- **[RISC-V Single/Multi Cycle CPU](https://2nak0.notion.site/3c26de42f5798095911ad6db93b3684f)** — RV32I 기반 Single-cycle / Multi-cycle CPU 설계
 - **[FPGA 기반 비접촉 패턴 인증 보안 홈캠](https://2nak0.notion.site/3e36de42f579807a8b2df9bd037135fc)** — Basys 3 FPGA 2대와 OV7670을 이용한 패턴 인증·영상처리 시스템. 팀장으로서 UART 제어 인터페이스, Top 통합, 시나리오 시뮬레이션 담당 (팀 프로젝트)
 
 **Verification**
