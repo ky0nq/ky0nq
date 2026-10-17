@@ -6,12 +6,6 @@
 
 ---
 
-### 🔍 About Me
-
-숭실대학교 전자정보공학부 IT융합전공에서 컴퓨터구조와 AI 가속기 / 시스템 아키텍처를 공부했으며, ISAC Lab 학부연구생으로 DNN의 메모리 오류 내성(Bit-Flip Fault Injection, Error Tolerance)을 분석하고 경량 오류 보호 기법 **FeatherGuard**(SCIE 제2저자, 한국·PCT·미국 특허 출원 참여) 연구에 참여했습니다.
-
-이후 「온디바이스 AI 시스템반도체 설계 2기」(대한상공회의소 서울기술교육센터, 980H)에서 Verilog/SystemVerilog 기반 RTL 설계, AMBA IP 설계, FPGA 기반 HW/SW 통합 SoC와 UVM 기능 검증을 수행하며, 설계와 검증을 함께 이해하는 역량을 쌓았습니다.
-
 ### 🛠️ Skills
 
 **RTL Design & Verification**
@@ -24,7 +18,6 @@
 
 **Tools & Languages**
 - C · Python · Linux
-- Notion · Git
 
 ### 📌 Featured Projects
 
@@ -46,7 +39,6 @@
 **Undergraduate**
 - **[MLP 병렬 추론 시스템 최적화](https://2nak0.notion.site/3c86de42f579818c91f9d4b925aef9ec)** — 2025 프로젝트 보고서 챌린지(CPC) 장려상·인기상, 반도체공학회 하계종합학술대회 특별세션 발표
 - **[Reconfigurable FIR Filter RTL 설계](https://2nak0.notion.site/3c86de42f57981e39fbdf4acd7c4f784)** — 재구성 가능한 FIR 필터 RTL 설계
-- **[DNN 레이어·블록 단위 양자화에 따른 추론 정확도 경향성 분석](https://2nak0.notion.site/3c86de42f57981f8a58bf0c7eec2a364)** — 양자화 단위에 따른 DNN 추론 정확도 분석
 
 👉 전체 프로젝트와 상세 내용은 [Notion Portfolio](https://app.notion.com/p/2nak0/Na-Kyung-s-Portfolio-4f66de42f57982d1998081ca1238769c)에서 확인하실 수 있습니다.
 
@@ -60,7 +52,7 @@
 
 - 📧 Email: iidrabbii@naver.com
 - 📄 Resume: [2nak0.notion.site/soc-rtl-design-verification](https://2nak0.notion.site/soc-rtl-design-verification)
-- 📝 Blog: [ky0nq.tistory.com](https://ky0nq.tistory.com/)
+- 📝 Tistory: [ky0nq.tistory.com](https://ky0nq.tistory.com/)
 - 🎬 YouTube: [@nak0-4](https://www.youtube.com/@nak0-4)
 - 💻 GitHub: [github.com/ky0nq](https://github.com/ky0nq)
 
