@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm 이나경 (Na-Kyung Lee) 👋</h1>
+<h1 align="center"> 이나경 (Na-Kyung Lee)'s Portfolio </h1>
 
-<h3 align="center">Digital HW Design Engineer · RTL Design / SoC Integration / UVM Verification</h3>
+<h3 align="center">Digital HW Design Engineer · RTL·SoC Design / Verification</h3>
 
 <p align="center">Computer Architecture와 AI Accelerator 연구 경험을 바탕으로, 시스템을 하드웨어 구조로 구현하는 설계 엔지니어를 목표로 하고 있습니다.</p>
 
@@ -14,10 +14,10 @@
 
 **FPGA & Embedded**
 - Xilinx Vivado · Zybo Z7-20 · Basys 3 · MicroBlaze SoC
-- STM32 (bare-metal) · Jetson Orin Nano · Arduino
+- STM32 (Bare-metal) · Jetson Orin Nano · Arduino
 
 **Tools & Languages**
-- C · Python · Linux
+- C · Python · PyTorch · Linux
 
 ### 📌 Featured Projects
 
