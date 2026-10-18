@@ -13,12 +13,13 @@
 - AMBA (AXI4 / AXI4-Lite / APB4) · UART · SPI · I²C
 
 **FPGA & Embedded**
-- Xilinx Vivado · Zybo Z7-20 · Basys 3 · MicroBlaze SoC
-- STM32 (Bare-metal) · Jetson Orin Nano · Arduino
+- Zybo Z7-20 · Basys 3 · MicroBlaze SoC
+- ARM Cortex-M4 · STM32 (Bare-metal) · Jetson Orin Nano · Arduino
 
 **Tools & Languages**
 - C · Python · PyTorch · Linux
-
+- Xilinx Vivado · Vitis · VCS · Verdi · ModelSim · Quartus Prime · GCC
+  
 ### 📌 Selected Projects
 
 **SoC / RTL Design**
