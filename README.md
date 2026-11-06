@@ -17,7 +17,7 @@
 - ARM Cortex-M4 · STM32 (Bare-metal) · Jetson Orin Nano · Arduino
 
 **Tools & Languages**
-- C · Python · PyTorch · Linux
+- C · C++ · Python · PyTorch · Linux
 - Xilinx Vivado · Vitis · VCS · Verdi · ModelSim · Quartus Prime · GCC
   
 ### 📌 Selected Projects
@@ -39,7 +39,7 @@
 - **[MLP 병렬 추론 시스템 최적화](https://2nak0.notion.site/3c86de42f579818c91f9d4b925aef9ec)** — 2025 프로젝트 보고서 챌린지(CPC) 장려상·인기상, 반도체공학회 하계종합학술대회 특별세션 발표
 - **[Reconfigurable FIR Filter RTL 설계](https://2nak0.notion.site/3c86de42f57981e39fbdf4acd7c4f784)** — Reconfigurable FIR 필터 RTL 설계
 
-👉 전체 프로젝트와 상세 내용은 [Notion Portfolio](https://app.notion.com/p/2nak0/Na-Kyung-s-Portfolio-4f66de42f57982d1998081ca1238769c)에서 확인하실 수 있습니다.
+👉 전체 프로젝트와 상세 내용은 **[Notion Portfolio](https://2nak0.notion.site/portfolio)**에서 확인하실 수 있습니다.
 
 ### 🏅 Awards & Publications
 
@@ -52,7 +52,6 @@
 - 📧 Email: iidrabbii@naver.com
 - 📄 Resume: [2nak0.notion.site/soc-rtl-design-verification](https://2nak0.notion.site/soc-rtl-design-verification)
 - 📝 Tistory: [ky0nq.tistory.com](https://ky0nq.tistory.com/)
-- 🎬 YouTube: [@nak0-4](https://www.youtube.com/@nak0-4)
 - 💻 GitHub: [github.com/ky0nq](https://github.com/ky0nq)
 
 ---
