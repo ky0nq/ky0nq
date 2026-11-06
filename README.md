@@ -23,7 +23,7 @@
 ### 📌 Selected Projects
 
 **SoC / RTL Design**
-- **[CNN Accelerator · DMA 기반 Vision Teleoperation SoC](https://2nak0.notion.site/3db6de42f579803da1acc6042436a6de)** — Zybo Z7-20에서 각도를 실시간 추론하는 Vision Edge AI SoC 설계
+- **[CNN 가속기를 활용한 Vision 인식 기반 차량 원격 제어 Edge SoC 설계](https://2nak0.notion.site/3db6de42f579803da1acc6042436a6de)** — Zybo Z7-20에서 각도를 실시간 추론하는 Vision Edge AI SoC 설계
 - **[AXI4-Lite 기반 Custom IP 설계 및 SoC 통합](https://2nak0.notion.site/3b06de42f579808f8820f903dcb7ba27)** — AXI4-Lite Custom Peripheral IP 5종을 RTL로 설계하고 MicroBlaze SoC에 통합, HW/SW 제어 Firmware 구축
 - **[RISC-V Single/Multi Cycle CPU](https://2nak0.notion.site/3c26de42f5798095911ad6db93b3684f)** — RV32I 기반 Single-cycle / Multi-cycle CPU 설계 및 분석
 
@@ -41,7 +41,7 @@
 - **[MLP 병렬 추론 시스템 최적화](https://2nak0.notion.site/3c86de42f579818c91f9d4b925aef9ec)** — 2025 프로젝트 보고서 챌린지(CPC) 장려상·인기상, 반도체공학회 하계종합학술대회 특별세션 발표
 - **[Reconfigurable FIR Filter RTL 설계](https://2nak0.notion.site/3c86de42f57981e39fbdf4acd7c4f784)** — Reconfigurable FIR 필터 RTL 설계
 
-👉 전체 프로젝트와 상세 내용은 **[Notion Portfolio](https://2nak0.notion.site/portfolio)**에서 확인하실 수 있습니다.
+👉 전체 프로젝트와 상세 내용은 [Notion Portfolio](https://2nak0.notion.site/portfolio)에서 확인하실 수 있습니다.
 
 ### 🏅 Awards & Publications
 
