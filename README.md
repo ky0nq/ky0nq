@@ -32,10 +32,6 @@
 - **[APB4 Verification IP 설계 및 UVM 검증](https://2nak0.notion.site/3c66de42f579801fbc9df3ef518a4344)** — AMBA APB4 프로토콜 VIP 설계 및 UVM 검증 환경 구축
 - **[SPI·I2C 통신 시스템 설계 및 UVM 검증](https://2nak0.notion.site/3c36de42f579805ab27fe6af86971c20)** — SPI / I²C Master-Slave RTL 설계 및 UVM 기반 기능 검증
 
-**Embedded & Edge AI**
-- **[STM32 기반 Joystick 활용 게임기](https://2nak0.notion.site/3b06de42f57980c88299e37d5bb2f09e)** — STM32F4 bare-metal 펌웨어로 구현한 듀얼 게임기
-- **[Jetson Orin Nano 기반 On-Device AI 차량 안전 모니터링 시스템](https://2nak0.notion.site/3c86de42f5798094a0bac69a346c1db6)** — 주행 중 안전벨트·졸음 감지 및 시동 종료 후 잔류 아동·반려동물 감지
-
 **Undergraduate**
 - **[FeatherGuard: 엣지 DNN을 위한 경량 오류 보호 기법](https://2nak0.notion.site/3c86de42f57981a88250f593667e9bfb)** — 국외 SCIE 저널 제2저자
 - **[MLP 병렬 추론 시스템 최적화](https://2nak0.notion.site/3c86de42f579818c91f9d4b925aef9ec)** — 2025 프로젝트 보고서 챌린지(CPC) 장려상·인기상, 반도체공학회 하계종합학술대회 특별세션 발표
