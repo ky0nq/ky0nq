@@ -26,7 +26,7 @@
 - **[CNN 가속기를 활용한 Vision 인식 기반 차량 원격 제어 Edge SoC 설계](https://2nak0.notion.site/3db6de42f579803da1acc6042436a6de)** · [`Code`](https://github.com/ky0nq/V-TRAX-Vision-AI-SoC) — Zybo Z7-20에서 각도를 실시간 추론하는 Vision Edge AI SoC 설계
 - **[AXI4-Lite 기반 Custom IP 설계 및 SoC 통합](https://2nak0.notion.site/3b06de42f579808f8820f903dcb7ba27)** · [`Code`](https://github.com/ky0nq/AXI4-Lite-Custom-IP-SoC) — AXI4-Lite Custom Peripheral IP 5종을 RTL로 설계하고 MicroBlaze SoC에 통합, HW/SW 제어 Firmware 구축
 - **[RISC-V Single/Multi Cycle CPU](https://2nak0.notion.site/3c26de42f5798095911ad6db93b3684f)** · [`Code`](https://github.com/ky0nq/RISC-V-RV32I-CPU) — RV32I 기반 Single-cycle / Multi-cycle CPU 설계 및 분석
-- **FPGA OV7670 ISP · VGA 보안 홈캠** · [`Code`](https://github.com/ky0nq/FPGA-OV7670-ISP-VGA) — OV7670 카메라 입력 → FPGA ISP(Blur · 색상 필터 · Zoom) → VGA 출력, 마커 패턴 인증 기반 잠금 제어
+- **[FPGA OV7670 ISP · VGA 보안 홈캠](https://2nak0.notion.site/3e36de42f579807a8b2df9bd037135fc)** · [`Code`](https://github.com/ky0nq/FPGA-OV7670-ISP-VGA) — OV7670 카메라 입력 → FPGA ISP(Blur · 색상 필터 · Zoom) → VGA 출력, 마커 패턴 인증 기반 잠금 제어
 
 **Verification**
 - **[AXI4-Lite to APB Bridge UVM 검증](https://2nak0.notion.site/3fe6de42f579806f8f7fc6434276cd5a)** · [`Code`](https://github.com/ky0nq/AXI4-Lite-APB-Bridge-UVM) — AXI4-Lite to APB Bridge UVM 검증 환경 구축
